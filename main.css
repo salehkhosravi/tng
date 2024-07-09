@@ -1,0 +1,9 @@
+@font-face{
+    font-family: yekan;
+    src: url(../BMitra.ttf);
+
+}
+
+*{
+    font-family: yekan;
+}
